@@ -227,7 +227,7 @@
         "resources": []
     },
     "the mouse": {
-        "helpers": [],
+        "helpers": ["Mathura"],
         "resources": []
     },
     "translate, rotate, and scale": {
@@ -242,7 +242,7 @@
         }]
     },
     "nested for loops": {
-        "helpers": [],
+        "helpers": ["Mathura"],
         "resources": []
     },
     "arrays of objects": {
